@@ -1,9 +1,9 @@
 # Booking App
 
 [![License](https://img.shields.io/badge/License-GNU-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
-[![React Native](https://img.shields.io/badge/React%20Native-v0.64.2-green.svg)](https://facebook.github.io/react-native/)
-[![Expo](https://img.shields.io/badge/Expo-v43.0.0-yellow.svg)](https://expo.io/)
-[![Node.js](https://img.shields.io/badge/Node.js-v14.17.0-success.svg)](https://nodejs.org/)
+[![React Native](https://img.shields.io/badge/React%20Native-v0.73.4-green.svg)](https://facebook.github.io/react-native/)
+[![Expo](https://img.shields.io/badge/Expo-v50.0.6-yellow.svg)](https://expo.io/)
+[![Node.js](https://img.shields.io/badge/Node.js-v18.17.1-success.svg)](https://nodejs.org/)
 
 ## Description
 
